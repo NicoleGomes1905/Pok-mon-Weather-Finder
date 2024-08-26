@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Weather</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pokémon Weather Finder</h1>
+        <input type="text" id="city" placeholder="Enter city name" />
+        <button id="search">Find Pokémon</button>
+
+        <div id="result" class="hidden">
+            <h2>Weather in <span id="city-name"></span></h2>
+            <p>Temperature: <span id="temperature"></span>°C</p>
+            <p>Weather: <span id="weather"></span></p>
+            <h3>Pokémon: <span id="pokemon"></span></h3>
+            <img id="pokemon-image" alt="Pokémon Image" />
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
