@@ -2,7 +2,7 @@
 
 ## Description
 
-**Pokémon Weather Finder** is a web application that merges weather data with the Pokémon universe. By entering the name of any city, the application fetches real-time weather conditions using the OpenWeatherMap API and suggests a Pokémon type that matches the environment based on the temperature and weather conditions. This project aims to create a fun and educational experience for Pokémon fans and those interested in meteorology.
+**Pokémon Weather Finder** is a web application that merges weather data with the Pokémon universe. By entering the name of any city, the application fetches real-time weather conditions using the OpenWeatherMap API and suggests a Pokémon type that matches the environment based on the temperature and weather conditions.
 
 ## Features
 
